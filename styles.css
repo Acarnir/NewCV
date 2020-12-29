@@ -1,0 +1,23 @@
+body {
+  background-color: rgba(142, 179, 189, 0.856);
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: rgba(17, 108, 124, 0.89);
+  border-width: 6px;
+  width: 6%;
+}
+
+h1 {
+  color: #0f6363;
+  text-shadow: 1px 2px rgb(154, 245, 245);
+  letter-spacing: 0.8px;
+}
+
+h3 {
+  color: #0f6363;
+  text-shadow: 1px 2px rgb(154, 245, 245);
+  letter-spacing: 0.8px;
+}
